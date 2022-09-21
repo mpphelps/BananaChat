@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BananaChat", "BananaChat\BananaChat.csproj", "{7B82322A-B2A8-48A9-BAFA-4071379B8755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B82322A-B2A8-48A9-BAFA-4071379B8755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B82322A-B2A8-48A9-BAFA-4071379B8755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B82322A-B2A8-48A9-BAFA-4071379B8755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B82322A-B2A8-48A9-BAFA-4071379B8755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDCDA901-7086-46B0-A1BE-0CCD4DCBDB94}
+	EndGlobalSection
+EndGlobal
