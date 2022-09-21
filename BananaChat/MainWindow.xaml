@@ -113,7 +113,7 @@
             <Grid.RowDefinitions>
                 <RowDefinition Height="50"/>
                 <RowDefinition/>
-                <RowDefinition Height="50"/>
+                <RowDefinition Height="90"/>
             </Grid.RowDefinitions>
 
             <Border BorderBrush="#2F3136"
